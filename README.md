@@ -37,7 +37,7 @@ Hello there! I'm **Trevor Murithi**, a creative technologist and designer. I enj
 </td>
 <td width="32%" align="center" valign="middle">
 
-<img src="https://res.cloudinary.com/dfedn2xsg/image/upload/v1764499154/Adding_Guests_Interaction_raralz.gif" alt="Creative coding animation" width="240" />
+<img src="https://res.cloudinary.com/dfedn2xsg/image/upload/v1764497595/Welcome_nfwwiw.gif" alt="Creative coding animation" width="240" />
 
 </td>
 </tr>
