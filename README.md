@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/trevish254/trevish254/main/assets/github-profile-banner.svg" alt="Welcome to Trevor's GitHub" width="100%" height="360" />
+<img src="https://raw.githubusercontent.com/trevish254/trevish254/main/assets/github-profile-banner.svg" alt="Welcome to Trevor's GitHub" width="100%" />
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://trevish254.github.io/trevish254/)
 [![GitHub](https://img.shields.io/badge/GITHUB-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/trevish254)
@@ -61,7 +61,8 @@ Creative technology &nbsp; | &nbsp; Design systems &nbsp; | &nbsp; Digital exper
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=trevish254&bg_color=0D1117&color=9AA5B1&line=708090&point=C0C0C0&area_color=263238&area=true&hide_border=true&custom_title=Contribution%20activity" alt="Trevor's activity graph" width="92%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=trevish254&theme=nord_dark&utcOffset=3" alt="Trevor's productive coding time" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trevish254&theme=nord_dark" alt="Trevor's most used commit languages" height="170" />
 
 </div>
 
