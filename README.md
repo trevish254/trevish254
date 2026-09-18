@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/trevish254/trevish254/main/assets/github-profile-banner.svg" alt="Welcome to Trevor's GitHub" width="100%" />
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://trevish254.github.io/trevish254/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-111111?style=flat-square&logo=googlechrome&logoColor=white)]([https://trevish254.github.io/trevish254/](https://trevormurithi.framer.website/))
 [![GitHub](https://img.shields.io/badge/GITHUB-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/trevish254)
 
 </div>
