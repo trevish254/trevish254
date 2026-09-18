@@ -11,17 +11,37 @@
 
 <div align="center">
 
-## About me
+## ♟️ About me
 
 </div>
 
-I'm **Trevor Murithi**, a creative technologist and designer building expressive interfaces, visual identities, and playful web experiences. I enjoy learning new tools, solving visual problems, and turning ambitious ideas into clear, useful products.
+<hr />
+
+<table>
+<tr>
+<td width="68%" valign="top">
+
+Hello there! I'm **Trevor Murithi**, a creative technologist and designer. I enjoy learning new technologies, solving visual problems, and building expressive interfaces, visual identities, and playful web experiences.
+
+<br />
 
 <div align="center">
 
-Creative technology &nbsp; | &nbsp; Design systems &nbsp; | &nbsp; Digital experiences
+🧠 <i>Creative technologist and designer</i><br />
+🎨 <i>Building visual identities and design systems</i><br />
+🌐 <i>Exploring 3D web, shaders, and generative visuals</i><br />
+✨ <i>Turning ambitious ideas into clear, useful products</i>
 
 </div>
+
+</td>
+<td width="32%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Creative coding animation" width="240" />
+
+</td>
+</tr>
+</table>
 
 <br />
 
