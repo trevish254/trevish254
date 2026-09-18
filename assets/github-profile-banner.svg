@@ -1,0 +1,20 @@
+<svg width="1200" height="245" viewBox="0 0 1200 245" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#F3F3F3"/>
+      <stop offset="1" stop-color="#A8A8A8"/>
+    </linearGradient>
+    <linearGradient id="water" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#202020"/>
+      <stop offset="1" stop-color="#050505"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="245" fill="url(#sky)"/>
+  <path d="M0 145C118 139 143 111 250 124C343 135 400 152 502 125C591 101 652 113 728 140C806 168 869 167 952 143C1041 116 1118 125 1200 131V245H0V145Z" fill="#111111"/>
+  <path d="M0 173C116 160 188 173 284 160C388 147 460 157 552 179C640 200 710 200 803 170C922 131 1033 157 1200 151V245H0V173Z" fill="url(#water)"/>
+  <path d="M0 205C167 187 282 197 416 211C561 227 683 223 818 198C958 171 1078 185 1200 198V245H0V205Z" fill="#020202"/>
+  <path d="M604 162C688 151 774 154 854 172C775 166 697 175 625 188C581 196 535 196 493 187C529 179 566 169 604 162Z" fill="#D9D9D9" opacity=".75"/>
+  <rect x="1" y="1" width="1198" height="243" stroke="#777777"/>
+  <text x="600" y="84" text-anchor="middle" fill="#1A1A1A" font-family="monospace" font-size="25" font-weight="600">Welcome to Trevor's Github</text>
+  <text x="600" y="113" text-anchor="middle" fill="#292929" font-family="monospace" font-size="18">&lt;/&gt;</text>
+</svg>
